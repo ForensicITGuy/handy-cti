@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<opml version="1.0">
+    <head>
+        <title>Offensive Security Tool Updates</title>
+    </head>
+    <body>
+        <outline text="RATs" title="RATs">
+            <outline type="rss" text="paradoxiaRAT Release Notes" title="paradoxiaRAT Release Notes" xmlUrl="https://github.com/quantumcored/paradoxiaRAT/releases.atom" htmlUrl="https://github.com/quantumcored/paradoxiaRAT/releases"/>
+            <outline type="rss" text="CHAOS Recent Commits" title="CHAOS Recent Commits" xmlUrl="https://github.com/tiagorlampert/CHAOS/commits/master.atom" htmlUrl="https://github.com/tiagorlampert/CHAOS/commits/master"/>
+            <outline type="rss" text="PupyRAT Recent Commits" title="PupyRAT Recent Commits" xmlUrl="https://github.com/n1nj4sec/pupy/commits/unstable.atom" htmlUrl="https://github.com/n1nj4sec/pupy/commits/unstable"/>
+            <outline type="rss" text="AsyncRAT-C-Sharp Release Notes" title="AsyncRAT-C-Sharp Release Notes" xmlUrl="https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp/releases.atom" htmlUrl="https://github.com/NYAN-x-CAT/AsyncRAT-C-Sharp/releases"/>
+        </outline>
+        <outline text="OffSec Tools" title="OffSec Tools">
+            <outline type="rss" text="LinEnum Recent Commits" title="LinEnum Recent Commits" xmlUrl="https://github.com/rebootuser/LinEnum/commits/master.atom" htmlUrl="https://github.com/rebootuser/LinEnum/commits/master"/>
+            <outline type="rss" text="LOLBAS Recent Commits" title="LOLBAS Recent Commits" xmlUrl="https://github.com/LOLBAS-Project/LOLBAS/commits/master.atom" htmlUrl="https://github.com/LOLBAS-Project/LOLBAS/commits/master"/>
+            <outline type="rss" text="Macro_pack Release Notes" title="Macro_pack Release Notes" xmlUrl="https://github.com/sevagas/macro_pack/releases.atom" htmlUrl="https://github.com/sevagas/macro_pack/releases"/>
+            <outline type="rss" text="OfficePurge Release Notes" title="OfficePurge Release Notes" xmlUrl="https://github.com/fireeye/OfficePurge/releases.atom" htmlUrl="https://github.com/fireeye/OfficePurge/releases"/>
+            <outline type="rss" text="Leonidas Recent Commits" title="Leonidas Recent Commits" xmlUrl="https://github.com/FSecureLABS/leonidas/commits/master.atom" htmlUrl="https://github.com/FSecureLABS/leonidas/commits/master"/>
+            <outline type="rss" text="SharpDPAPI Recent Commits" title="SharpDPAPI Recent Commits" xmlUrl="https://github.com/GhostPack/SharpDPAPI/commits/master.atom" htmlUrl="https://github.com/GhostPack/SharpDPAPI/commits/master"/>
+            <outline type="rss" text="PowerUpSQL Recent Commits" title="PowerUpSQL Recent Commits" xmlUrl="https://github.com/NetSPI/PowerUpSQL/commits/master.atom" htmlUrl="https://github.com/NetSPI/PowerUpSQL/commits/master"/>
+            <outline type="rss" text="GTFOBins Recent Commits" title="GTFOBins Recent Commits" xmlUrl="https://github.com/GTFOBins/GTFOBins.github.io/commits/master.atom" htmlUrl="https://github.com/GTFOBins/GTFOBins.github.io/commits/master"/>
+            <outline type="rss" text="EXCELntDonut Recent Commits" title="EXCELntDonut Recent Commits" xmlUrl="https://github.com/FortyNorthSecurity/EXCELntDonut/commits/master.atom" htmlUrl="https://github.com/FortyNorthSecurity/EXCELntDonut/commits/master"/>
+            <outline type="rss" text="ElevateKit Recent Commits" title="ElevateKit Recent Commits" xmlUrl="https://github.com/rsmudge/ElevateKit/commits/master.atom" htmlUrl="https://github.com/rsmudge/ElevateKit/commits/master"/>
+            <outline type="rss" text="PowerLessShell Recent Commits" title="PowerLessShell Recent Commits" xmlUrl="https://github.com/Mr-Un1k0d3r/PowerLessShell/commits/master.atom" htmlUrl="https://github.com/Mr-Un1k0d3r/PowerLessShell/commits/master"/>
+            <outline type="rss" text="Luckystrike Recent Commits" title="Luckystrike Recent Commits" xmlUrl="https://github.com/curi0usJack/luckystrike/commits/master.atom" htmlUrl="https://github.com/curi0usJack/luckystrike/commits/master"/>
+            <outline type="rss" text="ADFSDump Recent Commits" title="ADFSDump Recent Commits" xmlUrl="https://github.com/fireeye/ADFSDump/commits/master.atom" htmlUrl="https://github.com/fireeye/ADFSDump/commits/master"/>
+            <outline type="rss" text="Veil Release Notes" title="Veil Release Notes" xmlUrl="https://github.com/Veil-Framework/Veil/releases.atom" htmlUrl="https://github.com/Veil-Framework/Veil/releases"/>
+            <outline type="rss" text="Lsassy Release Notes" title="Lsassy Release Notes" xmlUrl="https://github.com/Hackndo/lsassy/releases.atom" htmlUrl="https://github.com/Hackndo/lsassy/releases"/>
+            <outline type="rss" text="Inveigh Recent Commits" title="Inveigh Recent Commits" xmlUrl="https://github.com/Kevin-Robertson/Inveigh/commits/master.atom" htmlUrl="https://github.com/Kevin-Robertson/Inveigh/commits/master"/>
+            <outline type="rss" text="Rubeus Recent Commits" title="Rubeus Recent Commits" xmlUrl="https://github.com/GhostPack/Rubeus/commits/master.atom" htmlUrl="https://github.com/GhostPack/Rubeus/commits/master"/>
+            <outline type="rss" text="BloodHound Release Notes" title="BloodHound Release Notes" xmlUrl="https://github.com/BloodHoundAD/BloodHound/releases.atom" htmlUrl="https://github.com/BloodHoundAD/BloodHound/releases"/>
+            <outline type="rss" text="SharpWMI Recent Commits" title="SharpWMI Recent Commits" xmlUrl="https://github.com/GhostPack/SharpWMI/commits/master.atom" htmlUrl="https://github.com/GhostPack/SharpWMI/commits/master"/>
+            <outline type="rss" text="SharpGPOAbuse Recent Commits" title="SharpGPOAbuse Recent Commits" xmlUrl="https://github.com/FSecureLABS/SharpGPOAbuse/commits/master.atom" htmlUrl="https://github.com/FSecureLABS/SharpGPOAbuse/commits/master"/>
+            <outline type="rss" text="Nishang Recent Commits" title="Nishang Recent Commits" xmlUrl="https://github.com/samratashok/nishang/commits/master.atom" htmlUrl="https://github.com/samratashok/nishang/commits/master"/>
+            <outline type="rss" text="Responder Release Notes" title="Responder Release Notes" xmlUrl="https://github.com/lgandx/Responder/releases.atom" htmlUrl="https://github.com/lgandx/Responder/releases"/>
+            <outline type="rss" text="UACME Release Notes" title="UACME Release Notes" xmlUrl="https://github.com/hfiref0x/UACME/releases.atom" htmlUrl="https://github.com/hfiref0x/UACME/releases"/>
+            <outline type="rss" text="Unicorn Release Notes" title="Unicorn Release Notes" xmlUrl="https://github.com/trustedsec/unicorn/releases.atom" htmlUrl="https://github.com/trustedsec/unicorn/releases"/>
+            <outline type="rss" text="BetterSafetyKatz Recent Commits" title="BetterSafetyKatz Recent Commits" xmlUrl="https://github.com/Flangvik/BetterSafetyKatz/commits/master.atom" htmlUrl="https://github.com/Flangvik/BetterSafetyKatz/commits/master"/>
+            <outline type="rss" text="Donut Release Notes" title="Donut Release Notes" xmlUrl="https://github.com/TheWover/donut/releases.atom" htmlUrl="https://github.com/TheWover/donut/releases"/>
+            <outline type="rss" text="Screenshooter Release Notes" title="Screenshooter Release Notes" xmlUrl="https://github.com/FortyNorthSecurity/Screenshooter/releases.atom" htmlUrl="https://github.com/FortyNorthSecurity/Screenshooter/releases"/>
+            <outline type="rss" text="CrackMapExec Release Notes" title="CrackMapExec Release Notes" xmlUrl="https://github.com/byt3bl33d3r/CrackMapExec/releases.atom" htmlUrl="https://github.com/byt3bl33d3r/CrackMapExec/releases"/>
+            <outline type="rss" text="SharpShooter Recent Commits" title="SharpShooter Recent Commits" xmlUrl="https://github.com/mdsecactivebreach/SharpShooter/commits/master.atom" htmlUrl="https://github.com/mdsecactivebreach/SharpShooter/commits/master"/>
+            <outline type="rss" text="SharpHound3 Recent Commits" title="SharpHound3 Recent Commits" xmlUrl="https://github.com/BloodHoundAD/SharpHound3/commits/master.atom" htmlUrl="https://github.com/BloodHoundAD/SharpHound3/commits/master"/>
+            <outline type="rss" text="Zombiant Recent Commits" title="Zombiant Recent Commits" xmlUrl="https://github.com/dsnezhkov/zombieant/commits/master.atom" htmlUrl="https://github.com/dsnezhkov/zombieant/commits/master"/>
+            <outline type="rss" text="DKMC Recent Commits" title="DKMC Recent Commits" xmlUrl="https://github.com/Mr-Un1k0d3r/DKMC/commits/master.atom" htmlUrl="https://github.com/Mr-Un1k0d3r/DKMC/commits/master"/>
+            <outline type="rss" text="EvilClippy Release Notes" title="EvilClippy Release Notes" xmlUrl="https://github.com/outflanknl/EvilClippy/releases.atom" htmlUrl="https://github.com/outflanknl/EvilClippy/releases"/>
+            <outline type="rss" text="Seatbelt Recent Commits" title="Seatbelt Recent Commits" xmlUrl="https://github.com/GhostPack/Seatbelt/commits/master.atom" htmlUrl="https://github.com/GhostPack/Seatbelt/commits/master"/>
+            <outline type="rss" text="Kekeo Release Notes" title="Kekeo Release Notes" xmlUrl="https://github.com/gentilkiwi/kekeo/releases.atom" htmlUrl="https://github.com/gentilkiwi/kekeo/releases"/>
+            <outline type="rss" text="Dumpert Recent Commits" title="Dumpert Recent Commits" xmlUrl="https://github.com/outflanknl/Dumpert/commits/master.atom" htmlUrl="https://github.com/outflanknl/Dumpert/commits/master"/>
+            <outline type="rss" text="MaliciousMacroGenerator Recent Commits" title="MaliciousMacroGenerator Recent Commits" xmlUrl="https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator/commits/master.atom" htmlUrl="https://github.com/Mr-Un1k0d3r/MaliciousMacroGenerator/commits/master"/>
+            <outline type="rss" text="FireELF Recent Commits" title="FireELF Recent Commits" xmlUrl="https://github.com/rek7/fireELF/commits/master.atom" htmlUrl="https://github.com/rek7/fireELF/commits/master"/>
+            <outline type="rss" text="KeeThief Recent Commits" title="KeeThief Recent Commits" xmlUrl="https://github.com/GhostPack/KeeThief/commits/master.atom" htmlUrl="https://github.com/GhostPack/KeeThief/commits/master"/>
+            <outline type="rss" text="SharPersist Release Notes" title="SharPersist Release Notes" xmlUrl="https://github.com/fireeye/SharPersist/releases.atom" htmlUrl="https://github.com/fireeye/SharPersist/releases"/>
+            <outline type="rss" text="DueDLLigence Recent Commits" title="DueDLLigence Recent Commits" xmlUrl="https://github.com/fireeye/DueDLLigence/commits/master.atom" htmlUrl="https://github.com/fireeye/DueDLLigence/commits/master"/>
+            <outline type="rss" text="LaZagne Recent Commits" title="LaZagne Recent Commits" xmlUrl="https://github.com/AlessandroZ/LaZagne/commits/master.atom" htmlUrl="https://github.com/AlessandroZ/LaZagne/commits/master"/>
+            <outline type="rss" text="Mimikatz Release Notes" title="Mimikatz Release Notes" xmlUrl="https://github.com/gentilkiwi/mimikatz/releases.atom" htmlUrl="https://github.com/gentilkiwi/mimikatz/releases"/>
+        </outline>
+        <outline text="C2 Frameworks" title="C2 Frameworks">
+            <outline type="rss" text="RedGhost Recent Commits" title="RedGhost Recent Commits" xmlUrl="https://github.com/d4rk007/RedGhost/commits/master.atom" htmlUrl="https://github.com/d4rk007/RedGhost/commits/master"/>
+            <outline type="rss" text="SSHoRTy Recent Commits" title="SSHoRTy Recent Commits" xmlUrl="https://github.com/dsnezhkov/SSHoRTy/commits/master.atom" htmlUrl="https://github.com/dsnezhkov/SSHoRTy/commits/master"/>
+            <outline type="rss" text="SILENTTRINITY Recent Commits" title="SILENTTRINITY Recent Commits" xmlUrl="https://github.com/byt3bl33d3r/SILENTTRINITY/commits/master.atom" htmlUrl="https://github.com/byt3bl33d3r/SILENTTRINITY/commits/master"/>
+            <outline type="rss" text="Empire Release Notes" title="Empire Release Notes" xmlUrl="https://github.com/BC-SECURITY/Empire/releases.atom" htmlUrl="https://github.com/BC-SECURITY/Empire/releases"/>
+            <outline type="rss" text="EggShell Recent Commits" title="EggShell Recent Commits" xmlUrl="https://github.com/neoneggplant/EggShell/commits/master.atom" htmlUrl="https://github.com/neoneggplant/EggShell/commits/master"/>
+            <outline type="rss" text="FudgeC2 Release Notes" title="FudgeC2 Release Notes" xmlUrl="https://github.com/Ziconius/FudgeC2/releases.atom" htmlUrl="https://github.com/Ziconius/FudgeC2/releases"/>
+            <outline type="rss" text="Sliver Release Notes" title="Sliver Release Notes" xmlUrl="https://github.com/BishopFox/sliver/releases.atom" htmlUrl="https://github.com/BishopFox/sliver/releases"/>
+            <outline type="rss" text="MSF:rex-powershell Release Notes" title="MSF:rex-powershell Release Notes" xmlUrl="https://github.com/rapid7/rex-powershell/releases.atom" htmlUrl="https://github.com/rapid7/rex-powershell/releases"/>
+            <outline type="rss" text="Merlin C2 Release Notes" title="Merlin C2 Release Notes" xmlUrl="https://github.com/Ne0nd0g/merlin/releases.atom" htmlUrl="https://github.com/Ne0nd0g/merlin/releases"/>
+            <outline type="rss" text="Octopus C2 Release Notes" title="Octopus C2 Release Notes" xmlUrl="https://github.com/mhaskar/Octopus/releases.atom" htmlUrl="https://github.com/mhaskar/Octopus/releases"/>
+            <outline type="rss" text="Mythic Recent Commits (formerly Apfell)" title="Mythic Recent Commits (formerly Apfell)" xmlUrl="https://github.com/its-a-feature/Mythic/commits/master.atom" htmlUrl="https://github.com/its-a-feature/Mythic/commits/master"/>
+            <outline type="rss" text="Metasploit-Framework Release Notes" title="Metasploit-Framework Release Notes" xmlUrl="https://github.com/rapid7/metasploit-framework/releases.atom" htmlUrl="https://github.com/rapid7/metasploit-framework/releases"/>
+            <outline type="rss" text="MacShellSwift Recent Commits" title="MacShellSwift Recent Commits" xmlUrl="https://github.com/cedowens/MacShellSwift/commits/master.atom" htmlUrl="https://github.com/cedowens/MacShellSwift/commits/master"/>
+            <outline type="rss" text="Caldera Release Notes" title="Caldera Release Notes" xmlUrl="https://github.com/mitre/caldera/releases.atom" htmlUrl="https://github.com/mitre/caldera/releases"/>
+            <outline type="rss" text="EvilOSX Recent Commits" title="EvilOSX Recent Commits" xmlUrl="https://github.com/Marten4n6/EvilOSX/commits/master.atom" htmlUrl="https://github.com/Marten4n6/EvilOSX/commits/master"/>
+            <outline type="rss" text="MSF:metasploit-payloads (meterpreter) Release Notes" title="MSF:metasploit-payloads (meterpreter) Release Notes" xmlUrl="https://github.com/rapid7/metasploit-payloads/releases.atom" htmlUrl="https://github.com/rapid7/metasploit-payloads/releases"/>
+            <outline type="rss" text="SCYTHE community-threats Recent Commits" title="SCYTHE community-threats Recent Commits" xmlUrl="https://github.com/scythe-io/community-threats/commits/master.atom" htmlUrl="https://github.com/scythe-io/community-threats/commits/master"/>
+            <outline type="rss" text="NorthStarC2 Recent Commits" title="NorthStarC2 Recent Commits" xmlUrl="https://github.com/EnginDemirbilek/NorthStarC2/commits/master.atom" htmlUrl="https://github.com/EnginDemirbilek/NorthStarC2/commits/master"/>
+            <outline type="rss" text="TrevorC2 Release Notes" title="TrevorC2 Release Notes" xmlUrl="https://github.com/trustedsec/trevorc2/releases.atom" htmlUrl="https://github.com/trustedsec/trevorc2/releases"/>
+            <outline type="rss" text="Godoh Release Notes" title="Godoh Release Notes" xmlUrl="https://github.com/sensepost/godoh/releases.atom" htmlUrl="https://github.com/sensepost/godoh/releases"/>
+            <outline type="rss" text="WMImplant Recent Commits" title="WMImplant Recent Commits" xmlUrl="https://github.com/FortyNorthSecurity/WMImplant/commits/master.atom" htmlUrl="https://github.com/FortyNorthSecurity/WMImplant/commits/master"/>
+            <outline type="rss" text="MacC2 Recent Commits" title="MacC2 Recent Commits" xmlUrl="https://github.com/cedowens/MacC2/commits/main.atom" htmlUrl="https://github.com/cedowens/MacC2/commits/main"/>
+            <outline type="rss" text="GRAT2 Recent Commits" title="GRAT2 Recent Commits" xmlUrl="https://github.com/r3nhat/GRAT2/commits/master.atom" htmlUrl="https://github.com/r3nhat/GRAT2/commits/master"/>
+            <outline type="rss" text="PowerHub Release Notes" title="PowerHub Release Notes" xmlUrl="https://github.com/AdrianVollmer/PowerHub/releases.atom" htmlUrl="https://github.com/AdrianVollmer/PowerHub/releases"/>
+            <outline type="rss" text="Koadic Recent Commits" title="Koadic Recent Commits" xmlUrl="https://github.com/zerosum0x0/koadic/commits/master.atom" htmlUrl="https://github.com/zerosum0x0/koadic/commits/master"/>
+            <outline type="rss" text="PoshC2 Release Notes" title="PoshC2 Release Notes" xmlUrl="https://github.com/nettitude/PoshC2/releases.atom" htmlUrl="https://github.com/nettitude/PoshC2/releases"/>
+            <outline type="rss" text="Sandcat (Caldera agent) Release Notes" title="Sandcat (Caldera agent) Release Notes" xmlUrl="https://github.com/mitre/sandcat/releases.atom" htmlUrl="https://github.com/mitre/sandcat/releases"/>
+            <outline type="rss" text="Shad0w Recent Commits" title="Shad0w Recent Commits" xmlUrl="https://github.com/bats3c/shad0w/commits/master.atom" htmlUrl="https://github.com/bats3c/shad0w/commits/master"/>
+            <outline type="rss" text="Covenant Release Notes" title="Covenant Release Notes" xmlUrl="https://github.com/cobbr/Covenant/releases.atom" htmlUrl="https://github.com/cobbr/Covenant/releases"/>
+            <outline type="rss" text="Stockpile (Caldera Playbooks) Release Notes" title="Stockpile (Caldera Playbooks) Release Notes" xmlUrl="https://github.com/mitre/stockpile/releases.atom" htmlUrl="https://github.com/mitre/stockpile/releases"/>
+        </outline>
+    </body>
+</opml>
